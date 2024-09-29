@@ -1,4 +1,4 @@
-# Diwali Sales Analysis
+# Diwali Sales Insights
 
 ## Overview
 
