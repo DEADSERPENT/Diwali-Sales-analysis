@@ -22,7 +22,7 @@ pip install numpy pandas matplotlib seaborn
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/DEADSERPENT/Diwali-Sales-analysis.git
+   git clone https://github.com/DEADSERPENT/Diwali-Sales-insights.git
    ```
 
 2. **Navigate to the project directory**:
